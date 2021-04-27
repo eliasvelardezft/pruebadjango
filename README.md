@@ -1,0 +1,2 @@
+# pruebadjango
+proyecto curso django
